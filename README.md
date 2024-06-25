@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Pursuing my Master's at Vellore Institute of Technology (VIT), Chennai<br>💻 Aspiring Full Stack Developer<br>🤖 Enthusiast in Machine Learning<br>🎯 Preparing for On-Campus Placements<br>🎾 Passionate Lawn Tennis Player<br>📚 Avid Reader of Motivational Books<br>🏅 Sporty and Active Lifestyle
+🎓 Pursuing my Master's at Vellore Institute of Technology (VIT), Chennai<br>💻 Aspiring Full Stack Developer<br>☕💻 Enthusiast in Java programming <br>🎯 Preparing for On-Campus Placements<br>🎾 Passionate Lawn Tennis Player<br>📚 Avid Reader of Motivational Books<br>🏅 Sporty and Active Lifestyle
 
 
 ## 🌐 Socials:
